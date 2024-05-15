@@ -173,8 +173,8 @@ gnome_shell_theme_main_settings_set_all () {
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark-Maia'"
-	gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark-Maia'
+	util_error_echo "gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Light-Maia'"
+	gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Light-Maia'
 
 
 	util_error_echo
