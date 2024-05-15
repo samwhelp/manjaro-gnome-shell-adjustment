@@ -153,8 +153,8 @@ gnome_shell_theme_main_settings_set_all () {
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.desktop.interface cursor-theme 'Yaru'"
-	gsettings set org.gnome.desktop.interface cursor-theme 'Yaru'
+	util_error_echo "gsettings set org.gnome.desktop.interface cursor-theme 'Bibata-Modern-Classic'"
+	gsettings set org.gnome.desktop.interface cursor-theme 'Bibata-Modern-Classic'
 
 
 	util_error_echo
@@ -194,8 +194,8 @@ gnome_shell_theme_main_settings_set_all () {
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.desktop.sound theme-name 'Yaru'"
-	gsettings set org.gnome.desktop.sound theme-name 'Yaru'
+	util_error_echo "gsettings set org.gnome.desktop.sound theme-name 'freedesktop'"
+	gsettings set org.gnome.desktop.sound theme-name 'freedesktop'
 
 
 
