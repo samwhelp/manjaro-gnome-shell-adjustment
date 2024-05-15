@@ -168,8 +168,8 @@ gnome_shell_theme_main_settings_set_all () {
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.desktop.interface gtk-theme 'Yaru'"
-	gsettings set org.gnome.desktop.interface gtk-theme 'Yaru'
+	util_error_echo "gsettings set org.gnome.desktop.interface gtk-theme 'Adw'"
+	gsettings set org.gnome.desktop.interface gtk-theme 'Adw'
 
 
 	util_error_echo
