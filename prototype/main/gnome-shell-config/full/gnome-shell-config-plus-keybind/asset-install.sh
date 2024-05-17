@@ -43,6 +43,8 @@ main_asset_install () {
 
 	gnome_shell_workspace_main_asset_install
 
+	gnome_shell_favorite_apps_asset_install
+
 	gnome_shell_extension_dash_to_dock_asset_install
 
 	gnome_shell_keybind_main_asset_install
