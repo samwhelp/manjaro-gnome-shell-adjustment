@@ -1,9 +1,0 @@
-
-
-[org.gnome.nautilus.preferences]
-default-folder-viewer='list-view'
-
-
-[org.gtk.gtk4.Settings.FileChooser]
-show-hidden=true
-
