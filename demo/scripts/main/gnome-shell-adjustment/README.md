@@ -7,8 +7,8 @@
 
 ## Link
 
-* https://github.com/samwhelp/pardus-gnome-shell-adjustment/blob/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh
-* https://raw.githubusercontent.com/samwhelp/pardus-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh
+* https://github.com/samwhelp/manjaro-gnome-shell-adjustment/blob/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh
+* https://raw.githubusercontent.com/samwhelp/manjaro-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh
 
 
 
@@ -18,26 +18,26 @@
 > run
 
 ``` sh
-bash <(curl -L https://raw.githubusercontent.com/samwhelp/pardus-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh)
+bash <(curl -L https://raw.githubusercontent.com/samwhelp/manjaro-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh)
 ```
 
 
 > or run
 
 ``` sh
-bash <(wget -q https://raw.githubusercontent.com/samwhelp/pardus-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh -O - )
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/manjaro-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh -O - )
 ```
 
 
 > or run
 
 ``` sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/pardus-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh || wget -q https://raw.githubusercontent.com/samwhelp/pardus-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh -O - )"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/manjaro-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh || wget -q https://raw.githubusercontent.com/samwhelp/manjaro-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh -O - )"
 ```
 
 
 > or run
 
 ``` sh
-bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/pardus-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/pardus-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh)"
+bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/manjaro-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/manjaro-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-adjustment/gnome-shell-adjustment.sh)"
 ```

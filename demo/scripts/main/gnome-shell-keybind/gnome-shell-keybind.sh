@@ -9,8 +9,8 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/pardus-gnome-shell-adjustment/blob/main/demo/scripts/main/gnome-shell-keybind/gnome-shell-keybind.sh
-## * https://raw.githubusercontent.com/samwhelp/pardus-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-keybind/gnome-shell-keybind.sh
+## * https://github.com/samwhelp/manjaro-gnome-shell-adjustment/blob/main/demo/scripts/main/gnome-shell-keybind/gnome-shell-keybind.sh
+## * https://raw.githubusercontent.com/samwhelp/manjaro-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-keybind/gnome-shell-keybind.sh
 ##
 
 
