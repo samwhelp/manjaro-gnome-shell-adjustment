@@ -5,23 +5,27 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Manjaro Gnome Shell Adjustment](https://samwhelp.github.io/manjaro-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-gnome-shell-adjustment) |
+| [Manjaro Gnome Shell Note](https://samwhelp.github.io/note-about-manjaro-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-gnome-shell) |
+| [Manjaro Adjustment](https://samwhelp.github.io/manjaro-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-adjustment) |
 
 
 
 
 ## Subject
 
-* [Adjustment](#adjustment)
+* [Script](#script)
 * [Link](#link)
 
 
 
 
-## Adjustment
+## Script
 
-| Adjustment |
-| ---------- |
-| [Manjaro Gnome Shell](https://github.com/samwhelp/manjaro-gnome-shell-adjustment/tree/main/prototype/main) |
+| Script |
+| ------ |
+| [Manjaro Gnome Shell Config](https://github.com/samwhelp/manjaro-gnome-shell-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/manjaro-adjustment/tree/main/prototype/main/tool-config/part) |
+| [gnome-shell-adjustment](https://github.com/samwhelp/manjaro-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
 
 
 
@@ -30,7 +34,17 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Manjaro Adjustment](https://samwhelp.github.io/manjaro-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-adjustment) |
-| [Archlinux Adjustment](https://samwhelp.github.io/archlinux-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-adjustment) |
-| [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
-| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [Gnome Shell Adjustment](https://samwhelp.github.io/gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/gnome-shell-adjustment) |
+| [Pardus Gnome Shell Adjustment](https://samwhelp.github.io/pardus-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/pardus-gnome-shell-adjustment) |
+| [Debian Gnome Shell Adjustment](https://samwhelp.github.io/debian-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/debian-gnome-shell-adjustment) |
+| [Ubuntu Gnome Shell Adjustment](https://samwhelp.github.io/ubuntu-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-gnome-shell-adjustment) |
+| [Fedora Gnome Shell Adjustment](https://samwhelp.github.io/fedora-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-gnome-shell-adjustment) |
+| [Archlinux Gnome Shell Adjustment](https://samwhelp.github.io/archlinux-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-gnome-shell-adjustment) |
+| [Garuda Gnome Shell Adjustment](https://samwhelp.github.io/garuda-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/garuda-gnome-shell-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
