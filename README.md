@@ -52,6 +52,16 @@
 
 
 
+## Case
+
+| Gnome Shell Layout Switcher |
+| --------------------------- |
+| Pardus / pardus-gnome-greeter / [LayoutManager](https://github.com/pardus/pardus-gnome-greeter/blob/master/src/pardus_gnome_greeter/managers/LayoutManager.py) / [layout_config.json](https://github.com/pardus/pardus-gnome-greeter/blob/master/data/json/layout_config.json) |
+| Manjaro / [gnome-layout-switcher](https://gitlab.manjaro.org/applications/gnome-layout-switcher) |
+
+
+
+
 ## Link
 
 | Link | GitHub |
