@@ -19,6 +19,7 @@
 ## Subject
 
 * [Script](#script)
+* [Resource](#resource)
 * [Link](#link)
 
 
@@ -35,6 +36,27 @@
 
 
 
+## Resource
+
+| Gnome Shell Enhance |
+| ------------------- |
+| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
+
+
+| Gnome Shell Style  |
+| ------------------ |
+[make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
+| Gnome Shell Layout |
+| ------------------ |
+| [make-gnome-shell-layout-wincity](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
+| [make-gnome-shell-layout-maccity](https://github.com/samwhelp/make-gnome-shell-layout-maccity) |
+
+
+
+
 ## Link
 
 | Link | GitHub |
@@ -45,6 +67,8 @@
 | [Ubuntu Gnome Shell Adjustment](https://samwhelp.github.io/ubuntu-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-gnome-shell-adjustment) |
 | [Fedora Gnome Shell Adjustment](https://samwhelp.github.io/fedora-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-gnome-shell-adjustment) |
 | [Archlinux Gnome Shell Adjustment](https://samwhelp.github.io/archlinux-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-gnome-shell-adjustment) |
+| [Voidlinux Gnome Shell Adjustment](https://samwhelp.github.io/voidlinux-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-gnome-shell-adjustment) |
+| [Solus Gnome Shell Adjustment](https://samwhelp.github.io/solus-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/solus-gnome-shell-adjustment) |
 | [Garuda Gnome Shell Adjustment](https://samwhelp.github.io/garuda-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/garuda-gnome-shell-adjustment) |
 
 
